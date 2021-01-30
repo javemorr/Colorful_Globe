@@ -16,10 +16,10 @@ def get_line_length(): # alternative getLineLength()
     print (choice)
     
     if choice == 'long':
-        line = 250
+        line = 150
 
     elif choice == 'medium':
-        line = 200
+        line = 100
 
     else:
         line = 50
