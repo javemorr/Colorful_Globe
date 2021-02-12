@@ -1,4 +1,4 @@
-# Hour of Code HK - Python Workshop #4
+# HOC - Python Workshop #4
 # Date: 17 Jan 2021
 
 # Use Random, Turtle
