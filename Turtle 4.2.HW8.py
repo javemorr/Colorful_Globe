@@ -1,4 +1,4 @@
-# HOC - Python Workshop #4
+# Colorful_Globe
 # Date: 17 Jan 2021
 
 # Use Random, Turtle
